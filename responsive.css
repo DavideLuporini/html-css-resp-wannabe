@@ -30,4 +30,8 @@
     #steps .row > .left, #steps .row > .central , #steps .row > .right {
         width: 90%;
     }
+    #why .row img{
+        height: 60px;
+        padding: 20px;
+    }
 }
